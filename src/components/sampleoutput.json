@@ -1,0 +1,70 @@
+{
+    "status": "ok",
+    "totalResults": 24,
+    "articles": [
+    {
+    "source": {
+    "id": "abc-news-au",
+    "name": "ABC News (AU)"
+    },
+    "author": "ABC News",
+    "title": "Ian Chappell retires from cricket commentary after 45 years",
+    "description": "Known for his forthright opinions on everything from batting technique to the way the sport was governed, Ian Chappell says he is retiring after health issues in recent years made the demands of the job harder.",
+    "url": "http://www.abc.net.au/news/2022-08-16/ian-chappell-retires-from-cricket-commentary/101336738",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/1c9b0baa5224c012a38c0b4a3bfee5b1?impolicy=wcms_crop_resize&cropH=2252&cropW=4004&xPos=0&yPos=323&width=862&height=485",
+    "publishedAt": "2022-08-16T00:11:37Z",
+    "content": "Australian cricket great Ian Chappell has retired from commentary after almost half a century behind the microphone.  <ul><li>Ian Chappell played 75 Tests including 30 as captain before becoming a m… [+1876 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Mascarenhas, Anita Ramaswamy",
+    "title": "Tech industry reacts to Adam Neumann's a16z-backed return to real estate",
+    "description": "Adam Neumann, whose fall from grace has attracted global interest, just found a ladder in the form of a check from Andreessen Horowitz.",
+    "url": "https://techcrunch.com/2022/08/15/tech-industry-reacts-to-adam-neumanns-a16z-backed-return-to-real-estate/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/05/tcdisrupt-ny17-8741.jpg?w=600",
+    "publishedAt": "2022-08-15T22:56:59Z",
+    "content": "WeWork co-founder and former chief executive Adam Neumanns career arc has felt synonymous with the rise and eventual fall of unicorn dreams. The entrepreneur, whose fall from grace has attracted glob… [+6862 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Ashley Belanger",
+    "title": "As Big Tech grapples with caste-based discrimination, Apple explicitly bans it",
+    "description": "Workers allege that casteism influences how companies hire and promote talent.",
+    "url": "https://arstechnica.com/tech-policy/2022/08/indian-workers-allege-casteism-in-big-tech-question-discrimination-policies/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1159166234-760x380.jpg",
+    "publishedAt": "2022-08-15T22:24:23+00:00",
+    "content": "21 with 19 posters participating To help combat caste-based discrimination, the Indian government saves spots at the best Indian universities for lower-caste students, who often take that opportunit… [+3956 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Christine Hall, Haje Jan Kamps",
+    "title": "Daily Crunch: Meta backs SMB e-commerce app launched by former Facebook engineering manager",
+    "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+    "url": "https://techcrunch.com/2022/08/15/daily-crunch-meta-backs-smb-e-commerce-app-launched-by-former-facebook-engineering-manager/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/team-1-e1660305433764.jpg?w=711",
+    "publishedAt": "2022-08-15T22:05:31Z",
+    "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT,subscribe here. Hello, Crunchers! Wait, thats kind of a weird nickname, as if youre… [+3341 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Lauren Forristal",
+    "title": "YouTube may launch a channel store for streaming services, report says",
+    "description": "YouTube may be looking to launch an online channel store for streaming services through the YouTube app, positioning itself in direct competition with Amazon, Roku, and Apple, three tech giants that each offer its own streaming subscription hubs. As reported …",
+    "url": "https://techcrunch.com/2022/08/15/youtube-may-launch-a-channel-store-for-streaming-services-report-says/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/youtube-ios-app.webp?w=712",
+    "publishedAt": "2022-08-15T20:40:13Z",
+    "content": "YouTube may be looking to launch an online channel store for streaming services through the YouTube app, positioning itself in direct competition with Amazon, Roku, and Apple, three tech giants that … [+1749 chars]"
+    }
+    ]}
